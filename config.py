@@ -15,7 +15,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_S_H_A_D_O_W_lll")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "lll_TOXICC_PAPA_lll")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "aaruxmusic_bot")
 # --------------------------------------------------------
@@ -41,7 +41,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7634448294))
+OWNER_ID = int(getenv("OWNER_ID", 8299512910))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -60,7 +60,7 @@ API_KEY = getenv("API_KEY", 'NxGBNexGenBotsb1880e')
 SOURCE = getenv("SOURCE", "https://github.com/TEAMPURVI/SONALI_MUSIC")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/istkhar-pvt/Istkhar_Clone",
+    "https://github.com/toxicpapa00/ToxicClone",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -73,9 +73,9 @@ GIT_TOKEN = getenv(
 
 #------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jully_Updates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+xfr6-ZOTaZVmODU1")
-CHAT = getenv("CHAT", "https://t.me/+xfr6-ZOTaZVmODU1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kittuu_updates")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+xxpR_3jfLFhkYjNl")
+CHAT = getenv("CHAT", "https://t.me/+xxpR_3jfLFhkYjNl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
