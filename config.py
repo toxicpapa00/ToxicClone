@@ -17,11 +17,11 @@ BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_S_H_A_D_O_W_lll")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "SumoMusicBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "aaruxmusic_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "˹ 𝐍ᴏʙɪᴛᴀ ꭙ 𝐌ᴜsɪᴄ [2] ˼")
+BOT_NAME = getenv("BOT_NAME" , "˹ 𝐀ᴀʀᴜ ꭙ 𝐌ᴜsɪᴄ ˼")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "NOBITA_MUSIC_TG_BOT")
+ASSUSERNAME = getenv("ASSUSERNAME" , "TOXIC")
 # ---------------------------------------------------------
 
 
