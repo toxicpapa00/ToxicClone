@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
          [
-             InlineKeyboardButton(text="ᴍᴀɢɪᴄ ✨", url="https://t.me/aaruxmusic_bot?start=_tgr_MyD6vjkyMDM9"),
+             InlineKeyboardButton(text="ᴍᴀɢɪᴄ ", url="https://t.me/aaruxmusic_bot?start=_tgr_MyD6vjkyMDM9"),
              
              InlineKeyboardButton(text="ɢɪꜰᴛ 🎁", url="https://t.me/aaruxmusic_bot?startgroup=true")
          ],
@@ -89,7 +89,7 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
          ],
                  [
-             InlineKeyboardButton(text=""ᴍᴀɢɪᴄ ✨", url="https://t.me/aaruxmusic_bot?start=_tgr_MyD6vjkyMDM9"),
+             InlineKeyboardButton(text=""ᴍᴀɢɪᴄ ", url="https://t.me/aaruxmusic_bot?start=_tgr_MyD6vjkyMDM9"),
 
              InlineKeyboardButton(text="ɢɪꜰᴛ 🎁", url="https://t.me/mussicxbot?startgroup=true")
          ],
