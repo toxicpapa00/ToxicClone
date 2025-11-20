@@ -242,10 +242,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url=f"https://t.me/ll_NOBITA_DEFAULTERS_ll"
+                text="ᴍᴀɢɪᴄ ✨", url=f"https://t.me/aaruxmusic_bot?start=_tgr_MyD6vjkyMDM9"
             ),
             InlineKeyboardButton(
-                text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/+E7jXcV6jpK0xMGJl"
+                text="ɢɪꜰᴛ 🎁", url=f"https://t.me/mussicxbot?startgroup=true"
             ),
         ],
 
