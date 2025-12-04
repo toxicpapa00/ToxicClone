@@ -73,8 +73,8 @@ async def get_thumb(videoid):
         draw = ImageDraw.Draw(background)
         arial = ImageFont.truetype("Clonify/assets/font2.ttf", 30)
         font = ImageFont.truetype("Clonify/assets/font.ttf", 30)
-        text_size = draw.textsize("JULLY BOTS    ", font=font)
-        draw.text((1280 - text_size[0] - 10, 10), " JULLY BOTS    ", fill="yellow", font=font)
+        text_size = draw.textsize("TOXIC PAPA    ", font=font)
+        draw.text((1280 - text_size[0] - 10, 10), " TOXIC PAPA    ", fill="yellow", font=font)
         draw.text(
             (55, 560),
             f"{channel} | {views[:23]}",
