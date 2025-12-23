@@ -28,7 +28,9 @@ from config import SUPPORT_CHAT, OWNER_ID
 from datetime import datetime
 CLONES = set()
 
-C_BOT_DESC = "●  WANT A BOT LIKE THIS? CLONE IT NOW! ✅\n\n○  ᴠɪsɪᴛ: @aaruxmusic_bot ᴛᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ!\n\n•  ͟͟͞͞───────────────────────────\n\n✧  UPDATES: @kittuu_updates\n✧  OWNER: @lll_TOXICC_PAPA_lll\n\n•  ͟͟͞͞───────────────────────────\n\n●  POWERED BY :-  「ᴋɪᴛᴛᴜ ʙᴏᴛs」💞"
+C_BOT_DESC = "Wᴇʟᴄᴏᴍᴇ 🤍🖤/nɪ’ᴍ ᴄʟᴏɴᴇᴅ ᴍᴜsɪᴄ & ᴠɪᴅᴇᴏ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ/nɪ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴄʀᴇᴀᴛᴇ & ᴍᴀɴᴀɢᴇ
+ʏᴏᴜʀ ᴏᴡɴ ᴍᴜsɪᴄ ʙᴏᴛ ᴡɪᴛʜ ᴇᴀsᴇ ⚡/n✨ ғᴇᴀᴛᴜʀᴇs/n• ᴜɴʟɪᴍɪᴛᴇᴅ ʙᴏᴛ ᴄʟᴏɴɪɴɢ/n• ʜɪɢʜ-ǫᴜᴀʟɪᴛʏ ᴀᴜᴅɪᴏ/n• ғᴀsᴛ • sᴛᴀʙʟᴇ • ʟᴀɢ-ғʀᴇᴇ/n⚡ ᴡᴀɴᴛ ᴛᴏ ᴄʟᴏɴᴇ ʏᴏᴜʀ ᴍᴜsɪᴄ ʙᴏᴛ?
+ᴠɪsɪᴛ » @SigmaBeatsBot 🚀/nᴍᴇᴇᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ » @isha_bots 🖤"
 
 C_BOT_COMMANDS = [
                 {"command": "/start", "description": "sᴛᴀʀᴛs ᴛʜᴇ ᴍᴜsɪᴄ ʙᴏᴛ"},
