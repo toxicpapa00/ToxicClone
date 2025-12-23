@@ -34,7 +34,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/Im-NotCoder/PtaHai && cd PtaHai
+   git clone https://github.com/Toxicpapa00/Toxicclone && cd PtaHai
    ```
 6. **Install Requirements**
    ```bash
