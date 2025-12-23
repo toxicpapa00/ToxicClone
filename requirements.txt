@@ -64,3 +64,4 @@ youtube-search
 youtube-search-python
 flask
 py_yt_search
+
