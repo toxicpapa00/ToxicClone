@@ -6,7 +6,7 @@ from Clonify import app
 
 #--------------------------
 
-MUST_JOIN = "NOB1TA_SUPPORT"
+MUST_JOIN = "isha_bots"
 
 #--------------------------
 
