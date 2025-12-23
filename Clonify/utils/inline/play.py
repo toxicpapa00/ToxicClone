@@ -68,9 +68,9 @@ def stream_markup_timer(_, chat_id, played, dur):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
          [
-             InlineKeyboardButton(text="ᴍᴀɢɪᴄ ✨", url="https://t.me/aaruxmusic_bot?start=_tgr_MyD6vjkyMDM9"),
+             InlineKeyboardButton(text="ᴍᴀɢɪᴄ ✨", url="https://t.me/SigmaBeatsbot"),
              
-             InlineKeyboardButton(text="ɢɪꜰᴛ 🎁", url="https://t.me/aaruxmusic_bot?startgroup=true")
+             InlineKeyboardButton(text="ɢɪꜰᴛ 🎁", url="https://t.me/sigmabeatsbot?startgroup=true")
          ],
         [
             InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
@@ -89,9 +89,9 @@ def stream_markup(_, chat_id):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
          ],
                  [
-             InlineKeyboardButton(text="ᴍᴀɢɪᴄ ✨", url="https://t.me/aaruxmusic_bot?start=_tgr_MyD6vjkyMDM9"),
+             InlineKeyboardButton(text="ᴍᴀɢɪᴄ ✨", url="https://t.me/SigmaBeatsBot"),
 
-             InlineKeyboardButton(text="ɢɪꜰᴛ 🎁", url="https://t.me/mussicxbot?startgroup=true")
+             InlineKeyboardButton(text="ɢɪꜰᴛ 🎁", url="https://t.me/SigmaBeatsBot?startgroup=true")
          ],
         [
             InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close"),
@@ -242,10 +242,10 @@ def stream_markup2(_, chat_id):
         ],
 [
             InlineKeyboardButton(
-                text="ᴍᴀɢɪᴄ ✨", url=f"https://t.me/aaruxmusic_bot?start=_tgr_MyD6vjkyMDM9"
+                text="ᴍᴀɢɪᴄ ✨", url=f"https://t.me/SigmaBeatsBot"
             ),
             InlineKeyboardButton(
-                text="ɢɪꜰᴛ 🎁", url=f"https://t.me/mussicxbot?startgroup=true"
+                text="ɢɪꜰᴛ 🎁", url=f"https://t.me/SigmaBeatsBot?startgroup=true"
             ),
         ],
 
