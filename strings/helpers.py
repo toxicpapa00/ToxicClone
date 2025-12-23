@@ -170,10 +170,10 @@ CLONE_HELP = """
 CLONE_HELP_2 = """
 <b><u>ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
-/clone – ᴄʟᴏɴᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ ғʀᴏᴍ @AaruxMusic_Bot.
+/clone – ᴄʟᴏɴᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ ғʀᴏᴍ @SigmaBeatsBot.
 
 <b><u>ᴀʟʟ ᴜsᴇʀs :</b></u>
-/mybot – ᴄʜᴇᴄᴋ ᴛʜᴇ ʙᴏᴛs ʏᴏᴜ’ᴠᴇ ᴄʟᴏɴᴇᴅ. [<a href="https://t.me/aaruxmusic_bot?start=_tgr_MyD6vjkyMDM9">˹ 𝐀ᴀʀᴜ ꭙ 𝐌ᴜsɪᴄ ˼</a>]
+/mybot – ᴄʜᴇᴄᴋ ᴛʜᴇ ʙᴏᴛs ʏᴏᴜ’ᴠᴇ ᴄʟᴏɴᴇᴅ. [<a href="https://t.me/SigmaBeatsBot">˹𝐒ɪɢᴍᴀ ꭙ 𝐁ᴇᴀᴛs˼ ♪</a>]
 /botinfo – ᴏɴʟʏ ғᴏʀ ʙᴏᴛ ᴏᴡɴᴇʀs ᴛᴏ ᴠɪᴇᴡ ʙᴏᴛ ɪɴғᴏ.
 
 <b><u>ᴘʀᴇᴍɪᴜᴍ ᴜsᴇʀs :</b></u>
